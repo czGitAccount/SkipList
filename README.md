@@ -114,3 +114,8 @@
 :small_blue_diamond: **<font color = FF8888>插入</font>** ：47.62 w :small_orange_diamond: **<font color = FF8888>删除</font>** ：50. 63 w :small_blue_diamond: **<font color = FF8888>修改</font>** ：41.22 w :small_orange_diamond: **<font color = FF8888>查看</font>** ：46.48 w
 
 :astonished: 不知为什么，比项目 README-old 文档中测试的结果要快一倍。
+
+----
+
+> 详细的笔记内容见：[基于跳表实现的键值型存储引擎 ](https://czgitaccount.github.io/Database/Skiplist-CPP/)
+
